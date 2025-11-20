@@ -3,22 +3,18 @@
 Creación de un sitio web estático con control de versiones
 Este repositorio contiene el desarrollo completo de la práctica guiada para aprender el uso de Git, GitHub, ramas, commits, Pull Requests, colaboración y publicación básica de un sitio web.
 
-📁 Estructura del Proyecto
-practica-web/
-│
-├── index.html
-├── about.html
-├── contact.html
-│
-├── css/
+📁 Estructura del Proyecto practica-web/
+│── index.html
+│── about.html
+│── contact.html
+│── css/
 │   └── style.css
-│
-├── js/
+│── js/
 │   └── script.js
-│
-└── img/
-    └── logo.png
-    
+│── img/
+│   └── logo.png
+
+
 🌐 Descripción del Sitio Web
 El proyecto consiste en una página web sencilla con:
 Página principal (index.html)
